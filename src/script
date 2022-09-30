@@ -1,0 +1,5 @@
+i = 10
+sum = 0
+while i > 0:
+    sum = sum + 1 // comment
+    i = i - 1
